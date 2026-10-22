@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE           COMMAND                  CREATED         STATUS         PORTS                                         NAMES
+57a1a83e0ebf   warehouse-api   "dotnet WarehouseApi…"   7 seconds ago   Up 3 seconds   0.0.0.0:8080->8080/tcp, [::]:8080->8080/tcp   warehouse
